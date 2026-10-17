@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/augusto-nalin/anr-hotbar-rel/releases",
   "promos": {
-    "1.21.1-latest": "0.1.0",
-    "1.21.1-recommended": "0.1.0"
+    "1.21.1-latest": "0.1.1",
+    "1.21.1-recommended": "0.1.1"
   },
   "1.21.1": {
-    "0.1.0": "- For Minecraft 1.21.1 (NeoForge). Split out of ANR's Trackpad & Touchpad Tweaks; works on its own too.\n- Cmd+Tab style hotbar switcher: hold the modifier, pick a slot (or an inventory row item) with the pointer, let go.\n- With ANR's Trackpad & Touchpad Tweaks: Cmd + swipe, deep press and Magic Mouse triggers, and trackpad taps."
+    "0.1.0": "- For Minecraft 1.21.1 (NeoForge). Split out of ANR's Trackpad & Touchpad Tweaks; works on its own too.\n- Cmd+Tab style hotbar switcher: hold the modifier, pick a slot (or an inventory row item) with the pointer, let go.\n- With ANR's Trackpad & Touchpad Tweaks: Cmd + swipe, deep press and Magic Mouse triggers, and trackpad taps.",
+    "0.1.1": "- For Minecraft 1.21.1 (NeoForge). Re-release of 0.1.0 for CurseForge; nothing changes in game."
   }
 }
